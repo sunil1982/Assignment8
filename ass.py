@@ -4,7 +4,7 @@ import streamlit as st
 st.write('Largest of three numbers ')
 
 
-def main():!streamlit run C:\Users\DELL\Desktop\ass.py
+def main():
 
     st.title('Find the Largest Number')
     st.write('Enter three number and then click on the buutton to find the largest')
