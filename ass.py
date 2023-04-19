@@ -29,4 +29,4 @@ if st.button("Find the Largest number"):
 
 st.write("The largest number is :", largest_num)
 
-!streamlit run C:\Users\DELL\Desktop\ass.py
+
